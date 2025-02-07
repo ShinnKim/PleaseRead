@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .hide {
+    display: none;
+  }
+  body {
+    padding: 2rem;
+    width: 100%;
+    min-height: 100vh;
+    background-image: linear-gradient(to right bottom, #cffafe, #22d3ee);
+    display: flex;
+    flex-direction: column;
+  }
